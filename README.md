@@ -1,8 +1,6 @@
 # Pandas Data Cleaning Portfolio
 
-Data cleaning exercises on real-world datasets: missing values, logical inconsistencies, and data quality checks with pandas.
-
-Each folder covers a separate dataset, with its own README and notebook.
+Pandas cleaning of real-world datasets: missing values, logical inconsistencies, type errors, duplicates, and text-to-numeric extraction. Each folder covers a separate dataset, with its own README and notebook. The cleaned Cafe Sales and NYC Airbnb datasets are analysed in [pandas-data-analysis](https://github.com/ayseskrbl/pandas-data-analysis).
 
 ## Projects
 
@@ -16,5 +14,5 @@ Cleaning on 21 scraped Shein product category files : inconsistent columns acros
 End-to-end cleaning on the New York City Airbnb Open Data (2019) : missing review data, logical inconsistencies and handling missing text fields.
 
 
-## Tools Used
+## Tools
 Python, pandas, numpy, Jupyter Notebook
