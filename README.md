@@ -4,14 +4,9 @@ Pandas cleaning of real-world datasets: missing values, logical inconsistencies,
 
 ## Projects
 
-### [Cafe Sales Data Cleaning](./cafe-sales)
-Cleaning on an intentionally dirtied Cafe Sales dataset : incorrect data types, relational imputation and handling unrecoverable rows.
-
-### [Shein E-Commerce Data Cleaning](https://github.com/aysesudekrbl/data-cleaning-projects/blob/main/e-commerce)
-Cleaning on 21 scraped Shein product category files : inconsistent columns across files, duplicate detection, and extracting numeric values from text fields.
-
-### [NYC Airbnb Data Cleaning](./nyc-airbnb)
-End-to-end cleaning on the New York City Airbnb Open Data (2019) : missing review data, logical inconsistencies and handling missing text fields.
+- [Cafe Sales Data Cleaning](./cafe-sales): an intentionally dirtied dataset, with incorrect data types, relational imputation, and handling of unrecoverable rows.
+- [Shein E-Commerce Data Cleaning](./e-commerce): 21 scraped product category files, with inconsistent columns across files, duplicate detection, and numeric values extracted from text fields.
+- [NYC Airbnb Data Cleaning](./nyc-airbnb): end-to-end cleaning of the NYC Airbnb Open Data (2019), covering missing review data, logical inconsistencies, and missing text fields.
 
 
 ## Tools
